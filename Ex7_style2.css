@@ -1,0 +1,35 @@
+.head1{
+    color: #333399;
+    font-size: 30px;
+}
+.head2{
+    color: #d9d9f2;
+    font-size: 20px;
+}
+
+#Customer{
+    padding: 20px;
+    border-style: groove;
+    position: relative;
+    width: 50vh;
+}
+
+#Books{
+    border-style: groove;
+    padding: 20px;
+    position: relative;
+    width: 50vh;
+}
+
+button{
+    border-radius: 2px;
+}
+
+p{
+    padding-left: 30px;
+}
+
+label{
+    padding-left: 10px;
+    position: absolute;
+}
